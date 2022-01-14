@@ -1,6 +1,6 @@
 #This repository contains a sample app that implements MVI architecture using Kotlin, ViewModel, LiveData, Hilt and etc.
 
-# NYC Artiles
+# Users List
  Siide Task
  
 # Tools and Technologies 
