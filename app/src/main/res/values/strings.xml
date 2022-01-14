@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sliide</string>
+    <string name="now">now</string>
+    <string name="days">days</string>
+    <string name="hours">hours</string>
+    <string name="hour">hour</string>
+    <string name="minutes">minutes</string>
+    <string name="minute">minute</string>
+    <string name="yesterday">yesterday</string>
+</resources>
